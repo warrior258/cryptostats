@@ -1,0 +1,3 @@
+1. Type npm install to download all the dependendcies.
+2. Create your firebase database and put your keys in he firebase js file
+3. Grab your news api key from newsapi.ord and put it in the News.jsx file
